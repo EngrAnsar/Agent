@@ -1,0 +1,15 @@
+project_name,duration_planned_months,cost_million_pkr,planned_progress_pct,actual_progress_pct,delay_months
+Farm-to-Market Road A,12,120,90,75,3
+Sewerage Scheme B,18,250,80,60,5
+Bridge Rehabilitation C,10,90,95,92,1
+Water Supply Scheme D,14,160,85,70,4
+Building Block E (GDA),9,60,88,80,2
+Drainage Upgrade F,15,140,75,50,6
+Road Widening G,11,110,92,88,1
+Pumping Station H,8,55,90,85,1
+Culvert Package I,6,30,96,94,0
+Rural Link Road J,13,130,70,45,7
+Water Treatment Plant K,20,300,82,65,6
+Housing Scheme L (GDA),16,190,78,55,6
+Farm-to-Market Road M,10,95,93,89,1
+Sewerage Scheme N,17,220,73,48,7

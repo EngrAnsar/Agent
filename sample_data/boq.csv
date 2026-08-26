@@ -1,0 +1,13 @@
+item_no,description,unit,quantity,rate_pkr,amount_pkr
+1,Earthwork in excavation for sub-grade,cum,18500,380,7030000
+2,Supply and laying sub-base (crushed stone),cum,9800,3200,31360000
+3,Supply and laying WBM base course,cum,9800,4100,40180000
+4,Prime coat (MC-30),sqm,29760,95,2827200
+5,Tack coat (RC-70),sqm,29760,55,1636800
+6,Asphalt wearing course (2 inch HMA),ton,5350,21500,115025000
+7,Earthen shoulders with turfing,cum,4200,6500,27300000
+8,RCC box culvert reconstruction (4 nos),cum,620,28500,17670000
+9,RCC slab culvert reconstruction (2 nos),cum,180,27800,5004000
+10,Road signs and reflective delineators,no,85,42000,3570000
+11,"Guard rails (W-beam, galvanized)",rmt,480,12500,6000000
+12,Road markings (thermoplastic paint),sqm,3100,1150,3565000
