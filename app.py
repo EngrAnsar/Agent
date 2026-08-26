@@ -162,7 +162,7 @@ with tabs[0]:
 
     doc_text = st.text_area(
         "Project document",
-        value=load_text("project_brief.txt"),
+        value=load_text("project_info.txt"),
         height=280,
         key="doc_text",
     )
